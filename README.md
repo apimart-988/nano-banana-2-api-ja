@@ -2,7 +2,7 @@
 
 > **1枚あたり $0.015** の従量課金。最低 1 ドルからチャージでき、OpenAI 互換の `https://api.apimart.ai/v1` だけで完結します。
 
-**[Nano Banana 2 のモデルページ](https://apimart.ai/ja/model/nano-banana-3-api)** · **[最新の料金](https://apimart.ai/ja/pricing)** · **[API キーを取得](https://apimart.ai/ja/keys)**
+**[Nano Banana 2 のモデルページ](https://go.apimart.ai/k-7c9d05)** · **[最新の料金](https://go.apimart.ai/k-ee4a41)** · **[API キーを取得](https://go.apimart.ai/k-9c46fb)**
 
 Nano Banana 系の現行世代。1K で1枚 1.5 セント、複数参照やマルチターン編集も同じエンドポイント。
 
