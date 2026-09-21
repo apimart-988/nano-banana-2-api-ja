@@ -1,0 +1,14 @@
+{
+  "model_id": "gemini-3.1-flash-image-preview",
+  "family": "Nano Banana 2",
+  "snapshot": "2026-09-21",
+  "unit": "1枚あたり",
+  "price_effective": {
+    "default": 0.015,
+    "1K": 0.015
+  },
+  "endpoint": "https://api.apimart.ai/v1/images/generations",
+  "poll": "/v1/tasks/{id}",
+  "language": "ja",
+  "source": "https://apimart.ai/en/pricing (extracted 2026-09-21)"
+}
