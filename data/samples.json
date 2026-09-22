@@ -1,0 +1,27 @@
+{
+  "model": "gemini-3.1-flash-image-preview",
+  "samples": [
+    {
+      "repo": "nano-banana-2-api-ja",
+      "slug": "01-preview",
+      "ok": true,
+      "file": "01-preview.jpg",
+      "bytes": 1004174,
+      "cost": 0.015,
+      "prompt": "雨上がりの路地、濡れた石畳に映る看板の灯り、フィルムライクな質感",
+      "lang": "ja"
+    },
+    {
+      "repo": "nano-banana-2-api-ja",
+      "slug": "02-preview",
+      "ok": true,
+      "file": "02-preview.jpg",
+      "bytes": 597556,
+      "cost": 0.015,
+      "prompt": "白いスタジオで撮影した陶器のカップ、柔らかな窓光、85mm レンズ",
+      "lang": "ja"
+    }
+  ],
+  "cost_usd": 0.03,
+  "generated_at": "2026-09-21"
+}

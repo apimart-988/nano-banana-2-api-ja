@@ -2,7 +2,8 @@
 
 > **1枚あたり $0.015** の従量課金。最低 1 ドルからチャージでき、OpenAI 互換の `https://api.apimart.ai/v1` だけで完結します。
 
-**[Nano Banana 2 のモデルページ](https://go.apimart.ai/k-7c9d05)** · **[最新の料金](https://go.apimart.ai/k-ee4a41)** · **[API キーを取得](https://go.apimart.ai/k-9c46fb)**
+<p align="center"><img src="assets/01-preview.jpg" width="820" alt="Nano Banana 2 sample output"></p>
+**[Nano Banana 2 のモデルページ](https://apimart.ai/ja/model/nano-banana-3-api)** · **[最新の料金](https://apimart.ai/ja/pricing)** · **[API キーを取得](https://apimart.ai/ja/keys)**
 
 Nano Banana 系の現行世代。1K で1枚 1.5 セント、複数参照やマルチターン編集も同じエンドポイント。
 
@@ -20,6 +21,14 @@ Nano Banana 系の現行世代。1K で1枚 1.5 セント、複数参照やマ�
 | `model` | `gemini-3.1-flash-image-preview` |
 | endpoint | `POST https://api.apimart.ai/v1/images/generations` |
 | task | GET /v1/tasks/{id} |
+
+
+## 実際に生成したサンプル（すべて実コールの結果）
+
+| sample | 費用 | prompt |
+| --- | --- | --- |
+| <img src="assets/01-preview.jpg" width="260"> | $0.015 | `雨上がりの路地、濡れた石畳に映る看板の灯り、フィルムライクな質感` |
+| <img src="assets/02-preview.jpg" width="260"> | $0.015 | `白いスタジオで撮影した陶器のカップ、柔らかな窓光、85mm レンズ` |
 
 ## 実測料金
 
